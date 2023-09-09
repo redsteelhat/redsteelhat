@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on EXAR<br>🤝 I’m looking for help with Mobile Development<br>🌱 I’m currently learning Full-Stack Developer<br>💬 Ask me about Pyhton<br>
+🔭 I’m currently working on ...<br>🤝 I’m looking for help with Mobile Development<br>🌱 I’m currently learning Full-Stack Developer<br>💬 Ask me about Pyhton<br>
 
 
 ## 🌐 Socials:

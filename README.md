@@ -73,7 +73,7 @@ Paketlerin kapsamı: [synorq.com/tr/hizmetler](https://synorq.com/tr/hizmetler#w
 | Proje | Ne olduğu | Teknoloji |
 | --- | --- | --- |
 | [**Synorq Saha**](https://github.com/redsteelhat/synorq-saha) | Teknik servis firmaları için saha servis yönetimi: iş emri, teknisyen ataması, müşteri bilgilendirme. Geliştirme aşamasında. | Next.js · TypeScript · Supabase |
-| [**BilardoGo**](https://github.com/redsteelhat/bilardogo-demo) | Bilardo oyuncularını ve salonlarını buluşturan PWA: salonda kimler var, rakip bulma, QR ile masaya bağlanma, işletme paneli. [Canlı demo](https://bilardogo-demo.vercel.app) | Next.js · tRPC · Drizzle · Supabase |
+| [**BilardoGo**](https://github.com/redsteelhat/bilardogo-demo) | Bilardo oyuncularını ve salonlarını buluşturan PWA: salonda kimler var, rakip bulma, QR ile masaya bağlanma, işletme paneli. | Next.js · tRPC · Drizzle · Supabase |
 | [**Oto Yedek Parça**](https://github.com/redsteelhat/oto-yedek-parca) | Çok mağazalı yedek parça e-ticaret platformu: araç uyumluluk filtresi, canlı destek, XML tedarikçi entegrasyonları. | Laravel · MySQL · Tailwind CSS |
 
 ## Nasıl çalışırım

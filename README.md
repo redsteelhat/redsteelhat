@@ -76,6 +76,16 @@ Paketlerin kapsamı: [synorq.com/tr/hizmetler](https://synorq.com/tr/hizmetler#w
 | [**BilardoGo**](https://github.com/redsteelhat/bilardogo-demo) | Bilardo oyuncularını ve salonlarını buluşturan PWA: salonda kimler var, rakip bulma, QR ile masaya bağlanma, işletme paneli. | Next.js · tRPC · Drizzle · Supabase |
 | [**Oto Yedek Parça**](https://github.com/redsteelhat/oto-yedek-parca) | Çok mağazalı yedek parça e-ticaret platformu: araç uyumluluk filtresi, canlı destek, XML tedarikçi entegrasyonları. | Laravel · MySQL · Tailwind CSS |
 
+## Hazır scriptler
+
+Kuruluma hazır, kendi sunucunuza yükleyip yönetim panelinden kod yazmadan yönettiğiniz scriptler. Her biri kurulum rehberi ve yönetim paneliyle gelir. Lisans ve demo için [iletişime geçin](https://synorq.com/tr/iletisim).
+
+| Script | Ne yapar | Teknoloji |
+| --- | --- | --- |
+| **Ajans & Kurumsal Site** | Dört tema (Aurora, Noir, Studio, Kurumsal), eksiksiz yönetim paneli, Lighthouse SEO ve erişilebilirlik 100. Paylaşımlı hostinge yüklenir, tarayıcıdan 2 dakikada kurulur. | PHP 8.1 · MySQL · Composer/Node gerekmez |
+| **Taksi Sitesi** | Taksi durakları için: tek dokunuşla arama, WhatsApp'tan taksi çağırma formu, bölge sayfaları, "ilçe + taksi" aramalarına göre yerel SEO, yönetim paneli. | Bağımlılıksız Node.js · veritabanı yok |
+| **Usta Terzi** | Terziler için üç görünümlü site: hizmet ve fiyat listesi, blog, iletişim; panelden içerik, görsel ve taslak yönetimi. cPanel/Apache kurulumu hazır. | PHP 8.1 · MySQL · Composer/Node gerekmez |
+
 ## Nasıl çalışırım
 
 - **Doğru boyut.** İşi taşıyacak en sade mimariyi seçerim; ihtiyaç büyüdükçe sistem de büyür.
@@ -98,6 +108,8 @@ I'm the founder and engineer of **[Synorq](https://synorq.com)**, a founder-led 
 - **Founders:** MVPs, product design, technical advice
 
 The six sector sites above are working samples built for fictional brands, each with a public site and a management panel.
+
+Ready-to-install scripts, each with an admin panel: an agency/corporate site with four themes (PHP + MySQL), a taxi stand site with WhatsApp booking and local SEO (dependency-free Node.js), and a tailor site (PHP + MySQL).
 
 Have a project in mind? Reach me at **[synorq.com](https://synorq.com/tr/iletisim)** or **contact@synorq.com**.
 

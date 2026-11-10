@@ -57,7 +57,6 @@ Ayrıntılar: [Online randevu sistemi](https://synorq.com/tr/hizmetler/randevu-s
 | [Sözlük Scripti](./urunler/sozluk-scripti) | Başlık ve entry tabanlı topluluk sitesi: gündem, yazar profilleri, çaylak sistemi ve moderasyon. | Laravel 12 · PHP 8.2+ |
 | [Medya İndirme Scripti](./urunler/medya-indirme-scripti) | Sosyal medya bağlantılarından indirme akışını üyelik, ücretsiz hak, bakiye ve yönetim paneliyle sunan uygulama. | Laravel 12 · PHP 8.2+ |
 | [Villa Kiralama Scripti](./urunler/villa-kiralama-scripti) | Tek işletmenin birden fazla villasını listelediği; müsaitlik, sezon fiyatı ve rezervasyon taleplerini yönettiği kiralama sistemi. | Laravel 12 · PHP 8.2+ |
-
 | [İnşaat ve Proje Yönetimi](./urunler/insaat-yonetim-scripti) | Kurumsal site, teklifler ve proje kayıtları; demo doğrulaması bekliyor | Laravel · PHP |
 
 Tanıtım sayfaları uygulama kaynak kodu içermez. Paket, lisans, kurulum ve destek kapsamı ürün bazında görüşülür.
